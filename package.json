@@ -1,0 +1,19 @@
+{
+  "name": "web-scrapper",
+  "version": "1.0.0",
+  "description": "This is a simple web scrapper build in typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "web",
+    "scrapper"
+  ],
+  "author": "Syed Muzamil",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^7.1.0",
+    "typescript": "^4.1.5"
+  }
+}
